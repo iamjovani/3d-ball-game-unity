@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 87cd851e9bee32c469ee3e2c4935ab09
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Coin 1 Inner
+    100002: Coin 1 Outer
+    100004: Coin 10
+    100006: Coin 11
+    100008: Coin 12
+    100010: Coin 13 Inner
+    100012: Coin 13 Outer
+    100014: Coin 14 Inner
+    100016: Coin 14 Outer
+    100018: Coin 15 Inner
+    100020: Coin 15 Outer
+    100022: Coin 16 Inner
+    100024: Coin 16 Outer
+    100026: Coin 17 Inner
+    100028: Coin 17 Outer
+    100030: Coin 18 Inner
+    100032: Coin 18 Outer
+    100034: Coin 2 Inner
+    100036: Coin 2 Outer
+    100038: Coin 3 Inner
+    100040: Coin 3 Outer
+    100042: Coin 4 Inner
+    100044: Coin 4 Outer
+    100046: Coin 5 Inner
+    100048: Coin 5 Outer
+    100050: Coin 6 Inner
+    100052: Coin 6 Outer
+    100054: Coin 7
+    100056: Coin 8
+    100058: Coin 9
+    100060: //RootNode
+    400000: Coin 1 Inner
+    400002: Coin 1 Outer
+    400004: Coin 10
+    400006: Coin 11
+    400008: Coin 12
+    400010: Coin 13 Inner
+    400012: Coin 13 Outer
+    400014: Coin 14 Inner
+    400016: Coin 14 Outer
+    400018: Coin 15 Inner
+    400020: Coin 15 Outer
+    400022: Coin 16 Inner
+    400024: Coin 16 Outer
+    400026: Coin 17 Inner
+    400028: Coin 17 Outer
+    400030: Coin 18 Inner
+    400032: Coin 18 Outer
+    400034: Coin 2 Inner
+    400036: Coin 2 Outer
+    400038: Coin 3 Inner
+    400040: Coin 3 Outer
+    400042: Coin 4 Inner
+    400044: Coin 4 Outer
+    400046: Coin 5 Inner
+    400048: Coin 5 Outer
+    400050: Coin 6 Inner
+    400052: Coin 6 Outer
+    400054: Coin 7
+    400056: Coin 8
+    400058: Coin 9
+    400060: //RootNode
+    2100000: No Name
+    2300000: Coin 1 Inner
+    2300002: Coin 1 Outer
+    2300004: Coin 10
+    2300006: Coin 11
+    2300008: Coin 12
+    2300010: Coin 13 Inner
+    2300012: Coin 13 Outer
+    2300014: Coin 14 Inner
+    2300016: Coin 14 Outer
+    2300018: Coin 15 Inner
+    2300020: Coin 15 Outer
+    2300022: Coin 16 Inner
+    2300024: Coin 16 Outer
+    2300026: Coin 17 Inner
+    2300028: Coin 17 Outer
+    2300030: Coin 18 Inner
+    2300032: Coin 18 Outer
+    2300034: Coin 2 Inner
+    2300036: Coin 2 Outer
+    2300038: Coin 3 Inner
+    2300040: Coin 3 Outer
+    2300042: Coin 4 Inner
+    2300044: Coin 4 Outer
+    2300046: Coin 5 Inner
+    2300048: Coin 5 Outer
+    2300050: Coin 6 Inner
+    2300052: Coin 6 Outer
+    2300054: Coin 7
+    2300056: Coin 8
+    2300058: Coin 9
+    3300000: Coin 1 Inner
+    3300002: Coin 1 Outer
+    3300004: Coin 10
+    3300006: Coin 11
+    3300008: Coin 12
+    3300010: Coin 13 Inner
+    3300012: Coin 13 Outer
+    3300014: Coin 14 Inner
+    3300016: Coin 14 Outer
+    3300018: Coin 15 Inner
+    3300020: Coin 15 Outer
+    3300022: Coin 16 Inner
+    3300024: Coin 16 Outer
+    3300026: Coin 17 Inner
+    3300028: Coin 17 Outer
+    3300030: Coin 18 Inner
+    3300032: Coin 18 Outer
+    3300034: Coin 2 Inner
+    3300036: Coin 2 Outer
+    3300038: Coin 3 Inner
+    3300040: Coin 3 Outer
+    3300042: Coin 4 Inner
+    3300044: Coin 4 Outer
+    3300046: Coin 5 Inner
+    3300048: Coin 5 Outer
+    3300050: Coin 6 Inner
+    3300052: Coin 6 Outer
+    3300054: Coin 7
+    3300056: Coin 8
+    3300058: Coin 9
+    4300000: Coin 18 Outer
+    4300002: Coin 18 Inner
+    4300004: Coin 17 Outer
+    4300006: Coin 17 Inner
+    4300008: Coin 16 Outer
+    4300010: Coin 16 Inner
+    4300012: Coin 15 Outer
+    4300014: Coin 15 Inner
+    4300016: Coin 14 Outer
+    4300018: Coin 14 Inner
+    4300020: Coin 13 Outer
+    4300022: Coin 13 Inner
+    4300024: Coin 12
+    4300026: Coin 11
+    4300028: Coin 10
+    4300030: Coin 9
+    4300032: Coin 8
+    4300034: Coin 7
+    4300036: Coin 6 Outer
+    4300038: Coin 6 Inner
+    4300040: Coin 5 Outer
+    4300042: Coin 5 Inner
+    4300044: Coin 4 Outer
+    4300046: Coin 4 Inner
+    4300048: Coin 3 Outer
+    4300050: Coin 3 Inner
+    4300052: Coin 2 Outer
+    4300054: Coin 2 Inner
+    4300056: Coin 1 Outer
+    4300058: Coin 1 Inner
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
